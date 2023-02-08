@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BDDLiving</id>
+    <version>1.0.0</version>
+    <authors>BDDLiving</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="NUnit" version="3.13.1" exclude="Build,Analyzers" />
+        <dependency id="NUnit.Console" version="3.12.0" exclude="Build,Analyzers" />
+        <dependency id="NUnit3TestAdapter" version="4.0.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.Support" version="4.8.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver" version="4.8.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver.ChromeDriver" version="109.0.5414.7400" exclude="Build,Analyzers" />
+        <dependency id="SpecFlow" version="3.9.74" exclude="Build,Analyzers" />
+        <dependency id="SpecFlow.NUnit" version="3.9.74" exclude="Build,Analyzers" />
+        <dependency id="SpecFlow.Tools.MsBuild.Generation" version="3.9.74" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\BDDLiving\BDDLiving\bin\Debug\net472\BDDLiving.dll" target="lib\net472\BDDLiving.dll" />
+  </files>
+</package>

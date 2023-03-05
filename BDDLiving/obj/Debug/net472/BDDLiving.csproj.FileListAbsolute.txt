@@ -1,3 +1,5 @@
+E:\BDDLiving\BDDLiving\bin\Debug\net472\LivingDoc.Dtos.dll
+E:\BDDLiving\BDDLiving\bin\Debug\net472\LivingDoc.SpecFlowPlugin.dll
 E:\BDDLiving\BDDLiving\bin\Debug\net472\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 E:\BDDLiving\BDDLiving\bin\Debug\net472\NUnit3.TestAdapter.dll
 E:\BDDLiving\BDDLiving\bin\Debug\net472\NUnit3.TestAdapter.pdb

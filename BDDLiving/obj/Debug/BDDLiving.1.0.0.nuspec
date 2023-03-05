@@ -12,9 +12,10 @@
         <dependency id="NUnit3TestAdapter" version="4.0.0" exclude="Build,Analyzers" />
         <dependency id="Selenium.Support" version="4.8.0" exclude="Build,Analyzers" />
         <dependency id="Selenium.WebDriver" version="4.8.0" exclude="Build,Analyzers" />
-        <dependency id="Selenium.WebDriver.ChromeDriver" version="109.0.5414.7400" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver.ChromeDriver" version="110.0.5481.7700" exclude="Build,Analyzers" />
         <dependency id="SpecFlow" version="3.9.74" exclude="Build,Analyzers" />
         <dependency id="SpecFlow.NUnit" version="3.9.74" exclude="Build,Analyzers" />
+        <dependency id="SpecFlow.Plus.LivingDocPlugin" version="3.9.57" exclude="Build,Analyzers" />
         <dependency id="SpecFlow.Tools.MsBuild.Generation" version="3.9.74" exclude="Build,Analyzers" />
       </group>
     </dependencies>

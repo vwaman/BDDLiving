@@ -21,8 +21,8 @@ namespace BDDLiving.Utils
             try
             {
                 String browseName = "chrome";
-                //string rootPath = @"E:\BDDLiving";
-                string rootPath = Environment.CurrentDirectory;
+                string rootPath = @"E:\BDDLiving";
+                //string rootPath = Environment.CurrentDirectory;
                 if (browseName.Equals(Enum.BrowserList.chrome.ToString()))
                 {
                     driverPath = rootPath + "\\Library\\";

@@ -112,7 +112,7 @@
           "build/Selenium.WebDriver.targets": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/109.0.5414.7400": {
+      "Selenium.WebDriver.ChromeDriver/110.0.5481.7700": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -484,10 +484,10 @@
         "selenium.webdriver.nuspec"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/109.0.5414.7400": {
-      "sha512": "eTclb0YvUFujj9MCe3RfQvZA9LRcazmqoYzqmrOdW/FMhossjXOpbiaLsUsI84EDNFZQlkRMq4S61XmUtzZOaw==",
+    "Selenium.WebDriver.ChromeDriver/110.0.5481.7700": {
+      "sha512": "fRcvSVCO5vfWMyNZhu4jyt4/UBUIRENR261XozDdDJhgPIcHY99BMKViYzlEcinzkdJ6m+571rlcaNNiaZHhlQ==",
       "type": "package",
-      "path": "selenium.webdriver.chromedriver/109.0.5414.7400",
+      "path": "selenium.webdriver.chromedriver/110.0.5481.7700",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -499,7 +499,7 @@
         "driver/mac64arm/chromedriver",
         "driver/win32/chromedriver.exe",
         "nupkg-icon.png",
-        "selenium.webdriver.chromedriver.109.0.5414.7400.nupkg.sha512",
+        "selenium.webdriver.chromedriver.110.0.5481.7700.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
       ]
     },
@@ -889,7 +889,7 @@
       "NUnit3TestAdapter >= 4.0.0",
       "Selenium.Support >= 4.8.0",
       "Selenium.WebDriver >= 4.8.0",
-      "Selenium.WebDriver.ChromeDriver >= 109.0.5414.7400",
+      "Selenium.WebDriver.ChromeDriver >= 110.0.5481.7700",
       "SpecFlow >= 3.9.74",
       "SpecFlow.NUnit >= 3.9.74",
       "SpecFlow.Plus.LivingDocPlugin >= 3.9.57",
@@ -898,8 +898,7 @@
   },
   "packageFolders": {
     "E:\\BDDLiving\\packages": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -911,15 +910,13 @@
       "outputPath": "E:\\BDDLiving\\BDDLiving\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "E:\\BDDLiving\\NuGet.Config",
         "C:\\Users\\vinayak.waman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net472"
@@ -967,7 +964,7 @@
           },
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
-            "version": "[109.0.5414.7400, )"
+            "version": "[110.0.5481.7700, )"
           },
           "SpecFlow": {
             "target": "Package",
@@ -986,7 +983,7 @@
             "version": "[3.9.74, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
